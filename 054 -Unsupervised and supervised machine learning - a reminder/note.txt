@@ -1,0 +1,1 @@
+- Cần làm: Viết một số kiến thức trọng tâm về unsupervised learning và supervised learning (chưa hoàn thành)

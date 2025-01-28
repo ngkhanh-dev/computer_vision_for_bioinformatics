@@ -1,0 +1,4 @@
+- Tìm hiểu và liệt kê thêm 6 loại file độc quyền và tìm cách mở đọc cho 6 file đấy và trích xuất nguồn (chưa hoàn thành)
+    + Phải giải thích từng tham số đọc ra ( bao gồm cả czi file)
+    + Gợi ý: có file tif đã từng làm
+- Tìm hiểu phần mềm Zen 2.6 lite do công ty Zeiss tạo ra
