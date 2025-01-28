@@ -1,0 +1,3 @@
+- Có 1 sự đánh đổi giữa việc tăng số lượng gaussian để fit với model và việc overfitting với training data, vì vậy ta cần phải cân bằng giữa 2 việc này
+- bài tiếp theo 053 sẽ giới thiệu AIC, BIC giúp plot và đưa ra lựa chọn một cách khoa học về số lượng gaussian component nên fit
+- Cần làm: Code thuần lại model, không library frameworks (chưa hoàn thành)
