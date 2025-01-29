@@ -1,0 +1,8 @@
+Chia làm 4 quy trình chính:
+    - 1(063): Chia training set và test set sau đó áp dụng các filter chia làm 3 loại filter chính (Original Pixel value, Gabor filter, other such as Sobel - Gaussian - Canny ...)
+    - 2:
+        + (064) Xây dựng model và validate model
+        + (065) Chiết xuất các feature quan trọng và có liên quan nhất để tăng hiệu quả tốc độ tính toán và thời gian cũng như chi phí train mô hình, giảm thời gian và chi phí tính toán
+    - 3(066): Lưu mô thành và các tham số mô hình
+    - 4(067): Triển khai và sử dụng mô hình để phân đoạn(segment) các ảnh trong thực tế
+    
